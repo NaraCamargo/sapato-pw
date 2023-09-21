@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import Sapato from './pages/Sapato/index';
+import Modelos from './pages/Modelos/index';
 
 
 const root = ReactDOM.createRoot(
